@@ -12,19 +12,19 @@ uid: 41215faa-6fb0-c1cd-29be-048497a4d9e8
 
 Plato. _Four Texts on Socrates._ Translated by T. G. West, and G. S. West. London, UK: Cornell University Press, 1998. ISBN: 9780801485749.
 
-Aristotle. _Politics_. Edited by Stephen Iverson. New York, NY: Cambridge University Press, 1988. ({{% resource_link "cb3bf625-717d-41e1-a21b-674f31d0e0de" "Download" %}} a version from the Internet Classics Archive.)
+Aristotle. _Politics_. Edited by Stephen Iverson. New York, NY: Cambridge University Press, 1988. ([Download](http://classics.mit.edu/Aristotle/politics.html) a version from the Internet Classics Archive.)
 
 Machiavelli. _The Portable Machiavelli._ Edited by Peter Bondanella, and Mark Musa. New York, NY: Penguin, 1979. ISBN: 9780140150926.
 
-Hobbes. _Leviathan._ Edited by Richard Tuck. New York, NY: Cambridge University Press, 1996. ISBN: 9780521560993. ({{% resource_link "916b67e2-b121-43f6-90be-46429f42aec1" "Download" %}} a version from Project Gutenberg.)
+Hobbes. _Leviathan._ Edited by Richard Tuck. New York, NY: Cambridge University Press, 1996. ISBN: 9780521560993. ([Download](http://www.gutenberg.org/etext/3207) a version from Project Gutenberg.)
 
-Locke. _Second Treatise of Government._ Edited by C. B. Macpherson. Indianapolis, Ind.: Hackett Pub. Co., 1980. ISBN: 9780915144938. ({{% resource_link "90e02efc-337e-4a2c-8cf1-d5fac6a11bcc" "Download" %}} a version from Project Gutenberg.)
+Locke. _Second Treatise of Government._ Edited by C. B. Macpherson. Indianapolis, Ind.: Hackett Pub. Co., 1980. ISBN: 9780915144938. ([Download](http://www.gutenberg.org/etext/7370) a version from Project Gutenberg.)
 
 Rousseau. _Basic Political Writings._ Edited by Donald A. Cress. Indianapolis, Ind.: Hackett Pub. Co., 1987. ISBN: 9780872200470.
 
 Marx. _The Marx-Engels Reader._ Edited by Robert Tucker. New York, NY: W.W. Norton, 1978. ISBN: 9780393056846.
 
-Tocqueville. _Democracy in America._ Edited by J. P. Mayer. New York, NY: Harper Perennial, 1988. ISBN: 9780060915223. (Download versions from Project Gutenberg: {{% resource_link "c38e9cfb-37ae-412a-8b2a-dc5e4bcde1c4" "Volume 1" %}} and {{% resource_link "a1fad6d5-fc43-46f6-803a-88a3f8736d7b" "Volume 2" %}}.)
+Tocqueville. _Democracy in America._ Edited by J. P. Mayer. New York, NY: Harper Perennial, 1988. ISBN: 9780060915223. (Download versions from Project Gutenberg: [Volume 1](http://www.gutenberg.org/ebooks/815) and [Volume 2](http://www.gutenberg.org/ebooks/816).)
 
 ## Reading Assignments
 
